@@ -16,6 +16,16 @@ pipeline {
                 bat 'npm run build'
             }
         }
+        stage('Business Idea Test 1') {
+            steps {
+                echo "Running Business Idea Test 1..."
+            }
+        }
+        stage('Business Idea Test 2') {
+            steps {
+                echo "Running Business Idea Test 2..."
+            }
+        }
     }
     post {
         always {
