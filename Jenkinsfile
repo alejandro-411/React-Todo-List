@@ -52,6 +52,7 @@ pipeline {
                 echo "Resultado: El negocio se proyecta como rentable."
             }
         }
+    }
 
         post {
             always {
