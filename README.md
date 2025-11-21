@@ -7,7 +7,7 @@ Aplicación web moderna para gestión de tareas desarrollada con React y Tailwin
 ## 👥 Integrantes del Proyecto
 
 - **Bryan Alejandro Benavides Gallego**
-- **Alejandro Castaño Uzquiano**
+- **Alejandro Castano Uzquiano**
 
 **Institución**: Universidad EAM - Facultad de Ingeniería  
 **Programa**: Ingeniería de Software  

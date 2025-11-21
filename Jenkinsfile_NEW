@@ -4,7 +4,7 @@
  *
  * Integrantes:
  * - Bryan Alejandro Benavides Gallego
- * - Alejandro Castaño Uzquiano
+ * - Alejandro Castano Uzquiano
  *
  * Este pipeline ejecuta 15 pruebas funcionales + 2 pruebas de idea de negocio
  * Fecha: Noviembre 2025
@@ -28,7 +28,7 @@ pipeline {
                 echo ''
                 echo 'Integrantes:'
                 echo '  - Bryan Alejandro Benavides Gallego'
-                echo '  - Alejandro Castaño Uzquiano'
+                echo '  - Alejandro Castano Uzquiano'
                 echo ''
                 echo 'Iniciando pipeline de pruebas...'
             }
@@ -147,7 +147,7 @@ pipeline {
                 echo ''
                 echo 'Integrantes:'
                 echo '  👨‍💻 Bryan Alejandro Benavides Gallego'
-                echo '  👨‍💻 Alejandro Castaño Uzquiano'
+                echo '  👨‍💻 Alejandro Castano Uzquiano'
                 echo ''
                 echo '========================================'
             }

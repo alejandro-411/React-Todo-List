@@ -40,7 +40,7 @@ Aplicación web moderna para gestión de tareas desarrollada con React, implemen
 #### Contador de Tareas
 - **Contador dinámico**: Muestra el número exacto de tareas pendientes y completadas
 - **Actualización automática**: Se actualiza en tiempo real al crear, completar o eliminar tareas
-- **Diseño visual atractivo**: Badges con colores diferentes para cada tipo
+- **Diseno visual atractivo**: Badges con colores diferentes para cada tipo
 
 #### Botón Limpiar Completadas
 - **Eliminación masiva**: Botón para eliminar todas las tareas completadas de una vez
@@ -65,7 +65,7 @@ Aplicación web moderna para gestión de tareas desarrollada con React, implemen
 #### Prevención de Desbordamiento de Texto
 - **Break-words CSS**: Evita que texto largo desborde el contenedor
 - **Límites de caracteres**: Previene entradas excesivamente largas
-- **Diseño responsive mejorado**: Mantiene la interfaz limpia en cualquier dispositivo
+- **Diseno responsive mejorado**: Mantiene la interfaz limpia en cualquier dispositivo
 
 #### Deshabilitación de Autocompletado
 - **autoComplete="off"**: Previene sugerencias del navegador en inputs
@@ -78,7 +78,7 @@ Aplicación web moderna para gestión de tareas desarrollada con React, implemen
 - **Documentación de componentes**: Descripción de props y funcionalidad de cada componente
 
 #### Mejoras en la Interfaz de Usuario
-- **Diseño responsive mejorado**: Adaptable a diferentes tamaños de pantalla
+- **Diseno responsive mejorado**: Adaptable a diferentes tamanos de pantalla
 - **Animaciones suaves**: Transiciones en hover, cambios de tema y acciones
 - **Efectos visuales**: Scale en hover, sombras y gradientes
 - **Accesibilidad mejorada**: Etiquetas ARIA y elementos semánticos
@@ -137,7 +137,7 @@ Basado en el Plan de Pruebas de Ingeniería de Software III:
 ## Tecnologías Utilizadas
 
 - **React 18.2.0** - Framework principal
-- **Tailwind CSS** - Estilos y diseño
+- **Tailwind CSS** - Estilos y diseno
 - **nanoid** - Generación de IDs únicos
 - **localStorage** - Persistencia de datos
 - **React Hooks** - Gestión de estado (useState, useEffect, useRef)
@@ -229,7 +229,7 @@ Este fork fue desarrollado como parte del curso de Ingeniería de Software III e
 ## Integrantes del Proyecto
 
 - **Bryan Alejandro Benavides Gallego**
-- **Alejandro Castaño Uzquiano**
+- **Alejandro Castano Uzquiano**
 
 ---
 

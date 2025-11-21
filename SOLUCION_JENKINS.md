@@ -55,7 +55,7 @@ git push origin main
 
 **Si pide autenticación:**
 - Usuario: `alejandro-411` (o tu usuario de GitHub)
-- Contraseña: Usa un **Personal Access Token** (no tu contraseña normal)
+- Contrasena: Usa un **Personal Access Token** (no tu contrasena normal)
 
 ### Paso 6: Verifica en GitHub
 

@@ -5,7 +5,7 @@
 
 **Autores:**
 - Bryan Alejandro Benavides Gallego
-- Alejandro Castaño Uzquiano
+- Alejandro Castano Uzquiano
 
 **Fecha:** Noviembre 2025
 
@@ -199,7 +199,7 @@ Pipeline de CI/CD
 - ✅ Interfaz intuitiva y auto-explicativa
 - ✅ Feedback visual inmediato
 - ✅ Navegación fluida entre estados
-- ✅ Diseño responsive y adaptable
+- ✅ Diseno responsive y adaptable
 
 **Valor de Negocio:**
 - 📈 Alta tasa de adopción esperada (70-80%)
@@ -230,7 +230,7 @@ INVERSIÓN:
 Total mensual: $105
 
 RETORNOS (Escenario conservador):
-- 10,000 usuarios año 1
+- 10,000 usuarios ano 1
 - Tasa conversión premium: 2%
 - Precio premium: $3/mes
 - Ingresos mensuales: 200 usuarios × $3 = $600
@@ -352,7 +352,7 @@ bat 'npm run build'
 
 ### Competencias Desarrolladas
 
-✅ Diseño y ejecución de planes de prueba  
+✅ Diseno y ejecución de planes de prueba  
 ✅ Automatización de pruebas con Jest  
 ✅ Configuración de pipelines de CI/CD  
 ✅ Análisis de viabilidad de negocio  
@@ -394,7 +394,7 @@ bat 'npm run build'
 ## 📞 INFORMACIÓN DE CONTACTO
 
 **Bryan Alejandro Benavides Gallego**  
-**Alejandro Castaño Uzquiano**
+**Alejandro Castano Uzquiano**
 
 **Universidad EAM**  
 Facultad de Ingeniería  

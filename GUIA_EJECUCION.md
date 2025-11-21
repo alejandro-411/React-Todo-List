@@ -2,7 +2,7 @@
 
 ## Sistema de Gestión de Tareas - To-Do App
 
-**Autores:** Bryan Alejandro Benavides Gallego & Alejandro Castaño Uzquiano  
+**Autores:** Bryan Alejandro Benavides Gallego & Alejandro Castano Uzquiano  
 **Universidad EAM** - Ingeniería de Software III
 
 ---
@@ -250,7 +250,7 @@ Antes de ejecutar en producción o en Jenkins:
 Si encuentras problemas al ejecutar las pruebas, contacta a:
 
 - **Bryan Alejandro Benavides Gallego**
-- **Alejandro Castaño Uzquiano**
+- **Alejandro Castano Uzquiano**
 
 Universidad EAM - Facultad de Ingeniería  
 Ingeniería de Software III

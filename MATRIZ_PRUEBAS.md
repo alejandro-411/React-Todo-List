@@ -1,7 +1,7 @@
 # 🎯 MATRIZ DE PRUEBAS - SISTEMA DE GESTIÓN DE TAREAS
 
 ## Universidad EAM - Ingeniería de Software III
-### Bryan Alejandro Benavides Gallego & Alejandro Castaño Uzquiano
+### Bryan Alejandro Benavides Gallego & Alejandro Castano Uzquiano
 
 ---
 
@@ -255,7 +255,7 @@
 | P16-C01 | Elementos principales visibles | ✅ PASS |
 | P16-C02 | Feedback visual al usuario | ✅ PASS |
 | P16-C03 | Filtros mejoran experiencia | ✅ PASS |
-| P16-C04 | Diseño responsive se adapta | ✅ PASS |
+| P16-C04 | Diseno responsive se adapta | ✅ PASS |
 
 **Total: 4/4 casos pasados**
 
@@ -400,7 +400,7 @@
 
 **Elaborado por:**  
 Bryan Alejandro Benavides Gallego  
-Alejandro Castaño Uzquiano
+Alejandro Castano Uzquiano
 
 **Universidad EAM**  
 Facultad de Ingeniería  

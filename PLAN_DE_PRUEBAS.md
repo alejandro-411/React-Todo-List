@@ -9,7 +9,7 @@
 
 **Integrantes:**
 - Bryan Alejandro Benavides Gallego
-- Alejandro Castaño Uzquiano
+- Alejandro Castano Uzquiano
 
 ---
 
@@ -79,7 +79,7 @@ Este documento describe el plan de pruebas implementado para el **Sistema de Ges
 #### 3. **Pruebas de Experiencia de Usuario**
 - Usabilidad de la interfaz
 - Feedback visual
-- Diseño responsive
+- Diseno responsive
 
 #### 4. **Pruebas de Negocio**
 - Análisis de productividad
@@ -340,13 +340,13 @@ Este documento describe el plan de pruebas implementado para el **Sistema de Ges
 - 🎯 Visibilidad de elementos principales
 - 🎯 Feedback visual al usuario
 - 🎯 Eficiencia de filtros y búsqueda
-- 🎯 Diseño responsive
+- 🎯 Diseno responsive
 
 **Resultados Esperados:**
 - ✅ Interfaz intuitiva: APROBADO
 - ✅ Feedback visual: EXCELENTE
 - ✅ Navegación fluida: APROBADO
-- ✅ Diseño responsive: APROBADO
+- ✅ Diseno responsive: APROBADO
 
 **Valor de Negocio:**
 - Alta tasa de adopción esperada
@@ -358,7 +358,7 @@ Este documento describe el plan de pruebas implementado para el **Sistema de Ges
 1. `La interfaz es intuitiva: todos los elementos principales están visibles`
 2. `La aplicación proporciona feedback visual al usuario`
 3. `Los filtros mejoran la experiencia de navegación`
-4. `El diseño responsive se adapta al contenido`
+4. `El diseno responsive se adapta al contenido`
 
 ---
 
@@ -392,8 +392,8 @@ Este documento describe el plan de pruebas implementado para el **Sistema de Ges
 **POTENCIAL DE MERCADO:**
 - Mercado objetivo: 500M+ usuarios
 - Tasa de conversión proyectada: 2-5%
-- Usuarios año 1: 10,000-50,000
-- Ingresos proyectados: $50k-$200k/año
+- Usuarios ano 1: 10,000-50,000
+- Ingresos proyectados: $50k-$200k/ano
 
 **Casos de Prueba:**
 1. `El usuario puede gestionar múltiples tareas eficientemente`
@@ -476,7 +476,7 @@ All files          |   95.2  |   88.7   |   92.5  |   96.1  |
 - 🎯 Interfaz intuitiva y fácil de usar
 - 🎯 Persistencia de datos robusta
 - 🎯 Funcionalidades de búsqueda y filtrado eficientes
-- 🎯 Diseño responsive y accesible
+- 🎯 Diseno responsive y accesible
 - 🎯 Alto potencial de productividad
 
 ### Áreas de Mejora Futuras
@@ -514,7 +514,7 @@ Este plan de pruebas demuestra:
 ## 👨‍💻 Autores
 
 **Bryan Alejandro Benavides Gallego**  
-**Alejandro Castaño Uzquiano**
+**Alejandro Castano Uzquiano**
 
 Universidad EAM - Facultad de Ingeniería  
 Programa de Ingeniería de Software  

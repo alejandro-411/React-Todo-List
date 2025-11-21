@@ -5,7 +5,7 @@
  * 
  * Integrantes:
  * - Bryan Alejandro Benavides Gallego
- * - Alejandro Castaño Uzquiano
+ * - Alejandro Castano Uzquiano
  * 
  * Noviembre 2025
  */

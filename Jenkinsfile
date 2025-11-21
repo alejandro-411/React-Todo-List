@@ -4,7 +4,7 @@
  *
  * Integrantes:
  * - Bryan Alejandro Benavides Gallego
- * - Alejandro Castaño Uzquiano
+ * - Alejandro Castano Uzquiano
  *
  * NOTA: Este pipeline simula la ejecución de 17 pruebas sin ejecutarlas realmente
  */
@@ -22,7 +22,7 @@ pipeline {
                 echo ''
                 echo 'Integrantes:'
                 echo '  - Bryan Alejandro Benavides Gallego'
-                echo '  - Alejandro Castaño Uzquiano'
+                echo '  - Alejandro Castano Uzquiano'
                 echo ''
                 echo 'Iniciando pipeline de pruebas...'
             }
@@ -247,13 +247,13 @@ pipeline {
                 echo '  ✓ Interfaz intuitiva y elementos visibles'
                 echo '  ✓ Feedback visual al usuario'
                 echo '  ✓ Filtros mejoran la navegación'
-                echo '  ✓ Diseño responsive'
+                echo '  ✓ Diseno responsive'
                 echo ''
                 echo '📈 RESULTADOS:'
                 echo '   • Interfaz intuitiva: APROBADO'
                 echo '   • Feedback visual: EXCELENTE'
                 echo '   • Navegación fluida: APROBADO'
-                echo '   • Diseño responsive: APROBADO'
+                echo '   • Diseno responsive: APROBADO'
                 echo ''
                 echo '💡 VALOR DE NEGOCIO:'
                 echo '   • Alta tasa de adopción esperada (70-80%)'
@@ -293,8 +293,8 @@ pipeline {
                 echo '   • Satisfacción usuario: 4.5/5'
                 echo ''
                 echo '🚀 POTENCIAL MERCADO:'
-                echo '   • Usuarios año 1: 10,000-50,000'
-                echo '   • Ingresos proyectados: $50k-$200k/año'
+                echo '   • Usuarios ano 1: 10,000-50,000'
+                echo '   • Ingresos proyectados: $50k-$200k/ano'
                 echo ''
                 echo '✅ PRUEBA NEGOCIO 2: APROBADA (5/5 casos)'
             }
@@ -386,7 +386,7 @@ pipeline {
                 echo ''
                 echo 'Integrantes:'
                 echo '  👨‍💻 Bryan Alejandro Benavides Gallego'
-                echo '  👨‍💻 Alejandro Castaño Uzquiano'
+                echo '  👨‍💻 Alejandro Castano Uzquiano'
                 echo ''
                 echo '========================================'
             }
