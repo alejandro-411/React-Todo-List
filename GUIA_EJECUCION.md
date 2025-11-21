@@ -128,11 +128,11 @@ bat 'npm run build'
 
 ```
 PASS  src/App.test.js
-  ✓ PRUEBA 1: Carga de interfaz principal (250ms)
-  ✓ PRUEBA 2: Visualización de tareas existentes (180ms)
-  ✓ PRUEBA 3: Creación de tareas (210ms)
+   PRUEBA 1: Carga de interfaz principal (250ms)
+   PRUEBA 2: Visualización de tareas existentes (180ms)
+   PRUEBA 3: Creación de tareas (210ms)
   ...
-  ✓ PRUEBA NEGOCIO 2: Análisis de Productividad (150ms)
+   PRUEBA NEGOCIO 2: Análisis de Productividad (150ms)
 
 Test Suites: 1 passed, 1 total
 Tests:       17 passed, 17 total
@@ -144,7 +144,7 @@ Time:        15.234s
 
 ```
 FAIL  src/App.test.js
-  ✓ PRUEBA 1: Carga de interfaz principal (250ms)
+   PRUEBA 1: Carga de interfaz principal (250ms)
   ✗ PRUEBA 2: Visualización de tareas existentes (180ms)
   
   ● PRUEBA 2 › Se muestran todas las tareas creadas

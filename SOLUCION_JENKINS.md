@@ -105,7 +105,7 @@ Una vez subido, el próximo build de Jenkins debe mostrar:
 ```
 PASS  src/App.test.js (5.755 s)
   PRUEBA 1: Carga de Interfaz Principal
-    ✓ PRUEBA 1 - La aplicación muestra encabezado y formulario (284 ms)
+     PRUEBA 1 - La aplicación muestra encabezado y formulario (284 ms)
   ...
 Test Suites: 1 passed, 1 total
 Tests:       17 passed, 17 total

@@ -43,10 +43,10 @@ pipeline {
                 echo 'PRUEBA 1: Verificar que la aplicación cargue correctamente'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ La aplicación se renderiza correctamente'
-                echo '  ✓ Se muestra el título TO DO LIST'
-                echo '  ✓ Se muestra el formulario de creación'
-                echo '  ✓ Se muestran los botones de filtro'
+                echo '   La aplicación se renderiza correctamente'
+                echo '   Se muestra el título TO DO LIST'
+                echo '   Se muestra el formulario de creación'
+                echo '   Se muestran los botones de filtro'
                 echo ' PRUEBA 1: PASADA (4/4 casos)'
             }
         }
@@ -58,8 +58,8 @@ pipeline {
                 echo 'PRUEBA 2: Validar visualización de tareas existentes'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Se muestra mensaje cuando no hay tareas'
-                echo '  ✓ Se muestran todas las tareas creadas'
+                echo '   Se muestra mensaje cuando no hay tareas'
+                echo '   Se muestran todas las tareas creadas'
                 echo ' PRUEBA 2: PASADA (2/2 casos)'
             }
         }
@@ -71,9 +71,9 @@ pipeline {
                 echo 'PRUEBA 3: Verificar creación de tareas nuevas'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Se puede crear una nueva tarea'
-                echo '  ✓ El input se limpia después de crear'
-                echo '  ✓ La tarea se guarda en localStorage'
+                echo '   Se puede crear una nueva tarea'
+                echo '   El input se limpia después de crear'
+                echo '   La tarea se guarda en localStorage'
                 echo ' PRUEBA 3: PASADA (3/3 casos)'
             }
         }
@@ -85,7 +85,7 @@ pipeline {
                 echo 'PRUEBA 4: Verificar modificación de tareas existentes'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Se puede editar una tarea existente'
+                echo '   Se puede editar una tarea existente'
                 echo ' PRUEBA 4: PASADA (1/1 casos)'
             }
         }
@@ -97,8 +97,8 @@ pipeline {
                 echo 'PRUEBA 5: Verificar eliminación de tareas'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Se puede eliminar una tarea'
-                echo '  ✓ La tarea se elimina de localStorage'
+                echo '   Se puede eliminar una tarea'
+                echo '   La tarea se elimina de localStorage'
                 echo ' PRUEBA 5: PASADA (2/2 casos)'
             }
         }
@@ -110,8 +110,8 @@ pipeline {
                 echo 'PRUEBA 6: Cambiar estado de pendiente a completada'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Se puede marcar una tarea como completada'
-                echo '  ✓ El contador se actualiza correctamente'
+                echo '   Se puede marcar una tarea como completada'
+                echo '   El contador se actualiza correctamente'
                 echo ' PRUEBA 6: PASADA (2/2 casos)'
             }
         }
@@ -123,8 +123,8 @@ pipeline {
                 echo 'PRUEBA 7: Revertir tarea completada a pendiente'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Se puede revertir una tarea a pendiente'
-                echo '  ✓ El contador se actualiza al revertir'
+                echo '   Se puede revertir una tarea a pendiente'
+                echo '   El contador se actualiza al revertir'
                 echo ' PRUEBA 7: PASADA (2/2 casos)'
             }
         }
@@ -136,8 +136,8 @@ pipeline {
                 echo 'PRUEBA 8: Validar que no se creen tareas sin título'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ No se puede crear una tarea vacía'
-                echo '  ✓ Se muestra mensaje de error'
+                echo '   No se puede crear una tarea vacía'
+                echo '   Se muestra mensaje de error'
                 echo ' PRUEBA 8: PASADA (2/2 casos)'
             }
         }
@@ -149,9 +149,9 @@ pipeline {
                 echo 'PRUEBA 9: Actualización automática del contador'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ El contador se actualiza al agregar tareas'
-                echo '  ✓ El contador se actualiza al completar tareas'
-                echo '  ✓ El contador se actualiza al eliminar tareas'
+                echo '   El contador se actualiza al agregar tareas'
+                echo '   El contador se actualiza al completar tareas'
+                echo '   El contador se actualiza al eliminar tareas'
                 echo ' PRUEBA 9: PASADA (3/3 casos)'
             }
         }
@@ -163,8 +163,8 @@ pipeline {
                 echo 'PRUEBA 10: Verificar persistencia de tareas'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Las tareas persisten después de recargar'
-                echo '  ✓ El estado completado se mantiene'
+                echo '   Las tareas persisten después de recargar'
+                echo '   El estado completado se mantiene'
                 echo ' PRUEBA 10: PASADA (2/2 casos)'
             }
         }
@@ -176,8 +176,8 @@ pipeline {
                 echo 'PRUEBA 11: Funcionalidad de búsqueda'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ La búsqueda filtra correctamente las tareas'
-                echo '  ✓ Se muestra mensaje cuando no hay resultados'
+                echo '   La búsqueda filtra correctamente las tareas'
+                echo '   Se muestra mensaje cuando no hay resultados'
                 echo ' PRUEBA 11: PASADA (2/2 casos)'
             }
         }
@@ -189,8 +189,8 @@ pipeline {
                 echo 'PRUEBA 12: Eliminar todas las tareas completadas'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Se eliminan todas las tareas completadas'
-                echo '  ✓ Las tareas pendientes se mantienen'
+                echo '   Se eliminan todas las tareas completadas'
+                echo '   Las tareas pendientes se mantienen'
                 echo ' PRUEBA 12: PASADA (2/2 casos)'
             }
         }
@@ -202,9 +202,9 @@ pipeline {
                 echo 'PRUEBA 13: Alternar entre modo claro y oscuro'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Existe el botón de cambio de tema'
-                echo '  ✓ El tema se puede cambiar'
-                echo '  ✓ La preferencia se guarda en localStorage'
+                echo '   Existe el botón de cambio de tema'
+                echo '   El tema se puede cambiar'
+                echo '   La preferencia se guarda en localStorage'
                 echo ' PRUEBA 13: PASADA (3/3 casos)'
             }
         }
@@ -216,8 +216,8 @@ pipeline {
                 echo 'PRUEBA 14: Cerrar sesión de forma segura'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ Los datos en localStorage se pueden limpiar'
-                echo '  ✓ La aplicación funciona después de limpiar'
+                echo '   Los datos en localStorage se pueden limpiar'
+                echo '   La aplicación funciona después de limpiar'
                 echo ' PRUEBA 14: PASADA (2/2 casos)'
             }
         }
@@ -229,9 +229,9 @@ pipeline {
                 echo 'PRUEBA 15: Cierre controlado del sistema'
                 echo '═══════════════════════════════════════════════════════════════'
                 echo ' Ejecutando pruebas...'
-                echo '  ✓ El componente se desmonta sin errores'
-                echo '  ✓ Los datos persisten después de desmontar'
-                echo '  ✓ No quedan listeners activos'
+                echo '   El componente se desmonta sin errores'
+                echo '   Los datos persisten después de desmontar'
+                echo '   No quedan listeners activos'
                 echo ' PRUEBA 15: PASADA (3/3 casos)'
             }
         }
@@ -244,10 +244,10 @@ pipeline {
                 echo '╚═══════════════════════════════════════════════════════════════╝'
                 echo ''
                 echo ' Ejecutando análisis de usabilidad...'
-                echo '  ✓ Interfaz intuitiva y elementos visibles'
-                echo '  ✓ Feedback visual al usuario'
-                echo '  ✓ Filtros mejoran la navegación'
-                echo '  ✓ Diseno responsive'
+                echo '   Interfaz intuitiva y elementos visibles'
+                echo '   Feedback visual al usuario'
+                echo '   Filtros mejoran la navegación'
+                echo '   Diseno responsive'
                 echo ''
                 echo ' RESULTADOS:'
                 echo '   • Interfaz intuitiva: APROBADO'
@@ -273,11 +273,11 @@ pipeline {
                 echo '╚═══════════════════════════════════════════════════════════════╝'
                 echo ''
                 echo ' Ejecutando análisis de productividad...'
-                echo '  ✓ Gestiona múltiples tareas eficientemente'
-                echo '  ✓ Búsqueda rápida (< 0.5 seg)'
-                echo '  ✓ Limpiar completadas mejora productividad'
-                echo '  ✓ Contadores ayudan seguimiento'
-                echo '  ✓ Persistencia permite continuidad'
+                echo '   Gestiona múltiples tareas eficientemente'
+                echo '   Búsqueda rápida (< 0.5 seg)'
+                echo '   Limpiar completadas mejora productividad'
+                echo '   Contadores ayudan seguimiento'
+                echo '   Persistencia permite continuidad'
                 echo ''
                 echo ' MÉTRICAS MEDIDAS:'
                 echo '   • Tiempo creación tarea: < 2 seg'
