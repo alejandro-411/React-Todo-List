@@ -4,10 +4,6 @@
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
 
-// Mock de nanoid para evitar problemas con ES modules en Jest
-jest.mock('nanoid', () => {
-  return {
-    nanoid: () => Math.random().toString(36).substring(2, 15)
-  };
-});
-
+jest.mock('nanoid', () => ({
+  nanoid: () => Math.random().toString(36).slice(2, 10)
+}));
